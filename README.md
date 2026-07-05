@@ -171,3 +171,11 @@ This lab includes a post-design vulnerability assessment — identifying weaknes
 | 🟡 Medium findings | 4 |
 
 → See [`security-review/vulnerabilities-and-mitigations.md`](./security-review/vulnerabilities-and-mitigations.md)
+
+---
+
+## Author
+
+**Yauheni Skrypnikau** � Career-changer building blue-team / SOC skills  
+*   **LinkedIn:** [linkedin.com/in/skrypnikau](https://www.linkedin.com/in/skrypnikau)
+*   **GitHub:** [github.com/skrypnikau](https://github.com/skrypnikau)
